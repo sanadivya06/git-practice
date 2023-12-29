@@ -1,4 +1,8 @@
                       GIT COMMANDS
 GIT CLONE
 
-The git clone command is widely used in software development to clone or copy a repository from a remote source to your local machine. Here are some commonly used options with the git clone command.
+The git clone command is widely used in software development to clone or copy a repository from a remote source to your local machine. Here are some commonly used options with the git clone command:
+
+GIT INIT
+
+The git init command is used to initialize a new Git repository. It's a fundamental command in Git, used to start a new repository or reinitialize an existing one. Here are some of the options you can use with git init:
