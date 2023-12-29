@@ -1,0 +1,4 @@
+                      GIT COMMANDS
+GIT CLONE
+
+The git clone command is widely used in software development to clone or copy a repository from a remote source to your local machine. Here are some commonly used options with the git clone command.
