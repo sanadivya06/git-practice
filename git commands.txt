@@ -6,3 +6,8 @@ The git clone command is widely used in software development to clone or copy a 
 GIT INIT
 
 The git init command is used to initialize a new Git repository. It's a fundamental command in Git, used to start a new repository or reinitialize an existing one. Here are some of the options you can use with git init:
+
+GIT RM
+
+The git rm command in Git is used to remove files from the working directory and the staging area (index). It's typically used to remove tracked files from your Git repository. Here are some of the commonly used options with the git rm command:
+
